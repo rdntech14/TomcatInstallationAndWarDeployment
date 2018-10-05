@@ -44,4 +44,4 @@ update tomcat/apache-tomcat/conf/tomcat-users.xml with following xml content
 
 9. Navigate to tomcat/apache-tomcat/webapps and place .war file.
 10. Restart tomcat
-11. URL *http://localhost:8080/CreateRESTFulService/rest/hello* will return result
+11. URL *http://localhost:8080/CreateRESTFulService/rest/employee/list* will return result
